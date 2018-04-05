@@ -52,7 +52,7 @@ try:
             bundle_files=bundle,
             dll_excludes=['w9xpopen.exe', "mswsock.dll", "MSWSOCK.dll"],
             includes=['twisted.web.resource', 
-                      'dash_hash',
+                      'cif_hash',
                       'zope.interface',
                       'win32api',
                       'p2pool.dash',

@@ -19,9 +19,9 @@ Download the required submodules:
     git submodule init
     git submodule update
 
-dash_hash:
+cif_hash:
 
-    cd dash_hash
+    cd cif_hash
     python setup.py install --user
 
 Running P2Pool:
